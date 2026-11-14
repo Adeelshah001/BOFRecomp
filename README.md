@@ -1,1 +1,1 @@
-# BOFRecomp
+# dc-compact-live-dashboard
