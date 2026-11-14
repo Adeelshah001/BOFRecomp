@@ -29,3 +29,9 @@ A clean, live dashboard cataloging all released and upcoming **DC Compact Comics
 - **API:** Vercel Serverless Function (`/api/comics`)
 - **Automation:** GitHub Actions cron (`.github/workflows/update-solicitations.yml`)
 - **Scraper:** Python 3 (`update_compact_comics.py`)
+
+---
+
+<p align="center">
+  <sub>Made with Rohail &amp; Adeel with Google Antigravity</sub>
+</p>
