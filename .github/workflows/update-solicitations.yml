@@ -2,8 +2,8 @@ name: Auto-Update DC Compact Solicitations
 
 on:
   schedule:
-    # Runs every Monday at 06:00 UTC (weekly check for new DC / PRH solicitations)
-    - cron: '0 6 * * 1'
+    # Runs every day at 06:00 UTC (daily check for new DC / PRH solicitations)
+    - cron: '0 6 * * *'
   workflow_dispatch: # Allows one-click manual run anytime from GitHub Actions tab
 
 permissions:
